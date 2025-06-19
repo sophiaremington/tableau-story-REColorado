@@ -18,7 +18,7 @@ The insights help stakeholders evaluate the strategic role of REALTORS® in the 
 ## Key Visualizations
 
 ### REALTOR® Participation by Production Tier
-![Production Tier Breakdown](percentage.png)  
+![Production Tier Breakdown](percentage.png.png)  
 REALTOR® dominance increases with production tier — over 80% of listings in higher tiers are by REALTORS®.
 
 ---
@@ -30,20 +30,20 @@ Prices rose sharply during 2020–2022, peaking above $700K, then stabilized int
 ---
 
 ### Unique Agent Count Over Time
-![Agent Count](agentcount.png)  
+![Agent Count](agentcount.png.png)  
 Both REALTOR® and Non-REALTOR® agent activity has declined since 2022, with sharper drops following the NAR settlement.
 
 ---
 
 ### Sales Volume by Top 10% of Agents
-![Top Sales Volume](topsales.png)  
-Top-performing REALTORS® consistently outperform Non-REALTORS®, maintaining $65M–$75M average monthly volume.
+![Top Sales Volume](topsales.png.png)  
+Top-performing REALTORS® consistently outperform Non-REALTORS®, maintaining $65M–$75M average monthly volume. Top realtors are defined as the Top 10% of Producers based on their average monthly sales volume.
 
 ---
 
 ### Monthly Transaction Count
-![Monthly Transactions](transactions.png)  
-Transaction volume fluctuates seasonally and has trended downward in the past 18 months.
+![Monthly Transactions](transactions.png.png)  
+Transaction volume fluctuates seasonally and has trended downward in the past 18 months especially since the NAR settlement in August 2024.
 
 ---
 
